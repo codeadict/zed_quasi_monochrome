@@ -1,0 +1,7 @@
+id = "quasi-monochrome"
+version = "0.0.1"
+name = "Quasi Monochrome"
+description = "A monochromatic/high contrast theme for Zed inspired by the quasi-monochrome theme from Emacs"
+authors = ["Dairon Medina Caro <me@dairon.org>"]
+repository = "https://github.com/codeadict/zed_quasi_monochrome"
+schema_version = 1
