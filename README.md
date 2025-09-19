@@ -4,7 +4,7 @@ A monochromatic/high contrast theme for Zed inspired by the [quasi-monochrome th
 
 ## Screenshot
 
-![quasi monochrome theme screenshot](asset/screenshot.png)
+![quasi monochrome theme screenshot](assets/screenshot.png)
 
 ## Installation
 
