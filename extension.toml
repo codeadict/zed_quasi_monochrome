@@ -1,5 +1,5 @@
 id = "quasi-monochrome"
-version = "0.0.1"
+version = "0.1.2"
 name = "Quasi Monochrome"
 description = "A monochromatic/high contrast theme for Zed inspired by the quasi-monochrome theme from Emacs"
 authors = ["Dairon Medina Caro <me@dairon.org>"]
